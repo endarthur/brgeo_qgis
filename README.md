@@ -3,6 +3,8 @@ milionesimo_lito.qml
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.836094.svg)](https://doi.org/10.5281/zenodo.836094)
 
+[Download the latest release](https://github.com/endarthur/brgeo_qgis/releases/latest)
+
 QML do Mapa Geológico do Brasil ao Milionésimo
 ----------------------------------------------
 
